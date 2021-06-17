@@ -3,6 +3,7 @@ import Home from './components/shared/Home';
 import About from './components/shared/About';
 import NoMatch from './components/shared/NoMatch';
 import Navbar from './components/shared/Navbar';
+import Blogs from './components/blogs/Blogs';
 
 //nav routes
 const App = () => (
